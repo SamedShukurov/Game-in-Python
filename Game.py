@@ -1,4 +1,4 @@
-import random #pythonu başlatmaq üçün terminalda (visual studio kodunkunu deyirəm) belə yane (python game.py) yaz ki açılsın 
+import random #pythonu başlatmaq üçün terminalda (visual studio kodunkunu deyirəm) belə yane (python game.py) yaz ki proqramı işə salasan  
 import time #ümumiyətlə hər hansı bir pythonu işə salmaq üçün sən terminaldan və ya exe proqramından istifadə edə bilərsən.
 
 print("----Rock, paper , scirrors , lizard , spock") #daş,kağızkərtənkələ, qapaq
@@ -121,6 +121,6 @@ while True:
      break
   else:
     print("You have typed something wrong...")
-print("Thank you for playing this game.I have no so much time to do game like this ,but nobody said that, I can't fix it.And yeah if this computer are making you angry Just type (code) to Win without fun ;)  ")
+print("Thank you for playing this game.I have not so much time make to game like this ,but nobody said that, I can't fix it.And yeah if this computer are making you angry Just type (code) to Win without fun ;)  ")
 print("\n\n\n\t\t\tGame by Samed  =)")
 time.sleep(15)
